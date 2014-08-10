@@ -1,6 +1,6 @@
-## Flask Application Template (for myself) ##
+## Flask Application Template ##
 
-This is a little sample app built with Flask. It's meant to be edited and expanded to become a large to mid sized web application backed by PostgreSQL.
+This is a little sample app built with Flask. It's meant to be edited and expanded to become a mid to large sized web application backed by PostgreSQL. One can use this code as a sample code to be studied for Flask.
 
 ### Things to re-configure before starting ###
 
